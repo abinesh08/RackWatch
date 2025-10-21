@@ -1,7 +1,5 @@
 # RackWatch
 
-# Smart Inventory & Expiry Management System
-
 ## Overview
 A multi-tenant inventory and sales management system for warehouses, supermarkets, and pharmacies.  
 This system tracks stock levels, product expiry, sales, and loans/credit history for customers. It provides async alerts, caching, and analytics dashboards, similar to modern enterprise inventory systems.
