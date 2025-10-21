@@ -27,13 +27,6 @@ This system tracks stock levels, product expiry, sales, and loans/credit history
 ## Database
 - Tenant, Product, Customer, Sale, SaleItem, LoanHistory, Alerts  
 
-## Getting Started
-1. Clone the repo  
-2. Configure DB and Kafka  
-3. Run Spring Boot application  
-4. Use Postman or React frontend to test features  
-5. View dashboard and alerts  
-
 ## Future Enhancements
 - Multi-location warehouses  
 - Barcode scanner integration  
